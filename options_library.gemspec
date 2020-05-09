@@ -14,7 +14,6 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/codertrader/options_library}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Options_library", "--main", "README.md"]
   s.require_paths = ["lib"]
-  s.rubyforge_project = %q{options_library}
   s.rubygems_version = %q{1.5.2}
   s.summary = %q{A gem used to calc the price of an option.}
 
